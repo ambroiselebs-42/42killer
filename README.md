@@ -6,3 +6,9 @@ source .zshrc
 
 
 [------------------------------------------------------------]
+
+
+dans la racine (dossier home)
+touch .reset
+
+Pour enlever -> rm -rf .reset
