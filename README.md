@@ -27,3 +27,6 @@ Pour enlever -> ```rm -rf .reset```
 [-------------------------------------------------------------]
 ```nano .zshrc``` -> a la toute fin mettre : ```gnome-terminal```
 ```source .zshrc```
+
+[-------------------------------------------------------------]
+```echo "gnome-terminal" >> .zshrc && source .zshrc```
