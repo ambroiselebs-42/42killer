@@ -23,3 +23,7 @@ Pour enlever -> ```rm -rf .reset```
 
 ```nano .zshrc``` -> a la toute fin mettre : ```killall5```
 ```source .zshrc```
+
+[-------------------------------------------------------------]
+```nano .zshrc``` -> a la toute fin mettre : ```gnome-terminal```
+```source .zshrc```
