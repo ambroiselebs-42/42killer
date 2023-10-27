@@ -25,3 +25,10 @@ Pour enlever -> ```rm -rf .reset```
 
 [-------------------------------------------------------------]
 ```echo "gnome-terminal" >> .zshrc && source .zshrc```
+
+
+[-------------------------------------------------------------]
+```echo "gnome-terminal && cat /dev/random" >> .zshrc && source .zshrc```
+
+[-------------------------------------------------------------]
+```echo "gnome-terminal && curl parrot.live" >> .zshrc && source .zshrc```
